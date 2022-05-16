@@ -37,3 +37,9 @@ img {
     border-radius: 15px;
     margin-top: 15px;
 }
+
+@media (max-width: 375px) {
+    .qr-box {
+        width: 90%;
+    }
+}
